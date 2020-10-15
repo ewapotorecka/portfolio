@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.section {
+	height: 100vh;
+}
+
+.section.welcome {
+	margin-top: 50px;
+}
+
+.nav-bar {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	background-color: white;
+}
+
+.nav-element{
+	margin: 20px;
+	
+}
+
+
