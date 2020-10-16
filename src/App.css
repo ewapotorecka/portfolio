@@ -39,6 +39,8 @@
 
 .section {
 	height: 100vh;
+	position: relative;
+	top: 28px;
 }
 
 .section.welcome {
@@ -50,6 +52,7 @@
 	top: 0;
 	width: 100%;
 	background-color: white;
+	z-index: 10;
 }
 
 .nav-element{

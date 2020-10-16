@@ -8,19 +8,19 @@ import Welcome from '../../pages/welcome';
 function Main() {
 	return(
 		<div>
-			<div>
+			<div id="welcome">
 				<Welcome />
 			</div>
-			<div>
+			<div  id="skills">
 				<Skills />
 			</div>
-			<div>
+			<div  id="projects">
 				<Projects />
 			</div>
-			<div>
+			<div  id="about-me">
 				<AboutMe />
 			</div>
-			<div>
+			<div id="contact">
 				<Contact />
 			</div>
 		</div>
