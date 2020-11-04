@@ -1,0 +1,20 @@
+.welcome {
+	display: block;
+}
+
+.profile-pic {
+	border-radius: 50%;
+	width: 300px;
+	float: left;
+	margin: 20px;
+}
+
+
+.welcome-container {
+	background-color: #ECE6F1;
+	width: 400px;
+	height: 300px;
+	margin-right: 200px;
+	margin-left: auto;
+	padding: 20px;
+}

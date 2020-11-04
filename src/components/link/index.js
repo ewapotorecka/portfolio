@@ -1,8 +1,9 @@
 import React from 'react';
+import './Link.css';
 
-function Link( { label, reference } ) {
+function Link() {
 	return(
-		<a className="nav-element" href={ '#' + reference } >{ label }</a>
+		<div>LINK</div>
 	);
 }
 

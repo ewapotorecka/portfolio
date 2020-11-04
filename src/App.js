@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import Nav from './components/nav';
-import Main from'./components/main';
+import Nav from './containers/nav';
+import Main from'./containers/main';
 
 function App() {
   return (

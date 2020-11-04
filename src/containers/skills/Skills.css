@@ -1,0 +1,23 @@
+.section {
+	display: flex;
+}
+
+.skills-container {
+	background-color: white;
+	display: inline-block;
+	width: 30vw;
+	height: 50vh;
+}
+
+.technologies {
+	float: left;
+	margin-top:40px;
+}
+
+.soft-skills {
+	float: right;
+}
+
+.skills-list {
+	list-style: none;
+}
