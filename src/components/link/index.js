@@ -1,9 +1,18 @@
 import React from 'react';
 import './Link.css';
 
-function Link() {
+function Link( props ) {
+	const element = props.data;
+	let linkImg;
+
+	if ( element.type === 'image' ) {
+		linkImg = <img src={ props.data.src } alt={ props.data.name }/>;
+	} else {
+		linkImg = element.src;
+	}
+
 	return(
-		<div>LINK</div>
+		<a href={ props.data.to } target="_blanc">{ linkImg }</a>
 	);
 }
 

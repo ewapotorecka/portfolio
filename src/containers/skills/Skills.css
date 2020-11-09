@@ -1,18 +1,22 @@
 .section {
 	display: flex;
+	justify-content: space-between;
 }
 
 .skills-container {
 	background-color: white;
 	display: inline-block;
 	width: 30vw;
-	height: 50vh;
+	min-height: fit-content;
+	margin: 10vw;
+	padding: 10px;
+	border-radius: 4px;
 }
 
 .technologies {
 	float: left;
-	margin-top:40px;
 }
+
 
 .soft-skills {
 	float: right;
@@ -20,4 +24,17 @@
 
 .skills-list {
 	list-style: none;
+}
+
+.skills-list li {
+	padding: 8px;
+}
+
+
+.technologies li {
+	padding: 15px;
+}
+
+.tech-icon {
+	margin-right: 40px;
 }
