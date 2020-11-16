@@ -11,3 +11,12 @@
 	color: #6D214F;
 	border-radius: 4px;
 }
+
+
+@media screen and (max-width: 450px) {
+	.nav-link {
+		margin: 20px 10px;
+	}
+
+	
+}

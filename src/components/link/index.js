@@ -12,7 +12,7 @@ function Link( props ) {
 	}
 
 	return(
-		<a href={ props.data.to } target="_blanc">{ linkImg }</a>
+		<a href={ props.data.to } target="_blanc" className="link">{ linkImg }</a>
 	);
 }
 

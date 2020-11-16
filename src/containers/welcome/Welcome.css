@@ -1,20 +1,42 @@
 .welcome {
-	display: block;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	width: 100%;
+	min-height: calc( 100vh - 70px) ;
+	padding-top: 70px;
+
 }
 
+.profile-img-container {
+	width: 30%;
+	min-width: 400px;
+}
 .profile-pic {
 	border-radius: 50%;
-	width: 300px;
-	float: left;
-	margin: 20px;
+	width: 100%;
+	height: auto;
+
 }
 
 
-.welcome-container {
-	background-color: #ECE6F1;
-	width: 400px;
-	height: 300px;
-	margin-right: 200px;
-	margin-left: auto;
-	padding: 20px;
+.welcome-text-container {
+	width: 40%;
+	border-bottom: 3px solid #790c5a;
+}
+
+@media screen and (max-width: 900px) {
+	.welcome {
+		flex-direction: column;
+		justify-content: center;
+	}
+
+	.profile-img-container {
+		width: 80%;
+	}
+
+	.welcome-text-container {
+		width: 80%;
+	}
 }

@@ -36,12 +36,12 @@ function Contact() {
 	return(
 		<div className="section">
 			<div className="contact-container">
-				<Link data={ strava } className="icon-link"/>
-				<Link data={ linkedIn } className="icon-link"/>
+				<Link data={ strava } color="#790c5a" className="icon-link"/>
+				<Link data={ linkedIn } color="#790c5a" className="icon-link"/>
 			</div>
 			<div className="contact-container">
-				<Link data={ github } className="icon-link"/>
-				<Link data={ mail } className="icon-link"/>
+				<Link data={ github } color="#790c5a" className="icon-link"/>
+				<Link data={ mail } color="#790c5a" className="icon-link"/>
 			</div>
 		</div>
 	);
