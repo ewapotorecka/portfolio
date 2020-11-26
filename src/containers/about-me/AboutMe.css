@@ -4,12 +4,34 @@
 }
 
 .about-container {
-	width: 90vw;
+	width: 80vw;
 	display: flex;
+	margin: 20px auto;
 }
 
 .about img {
 	border-radius: 50%;
 	max-width: 400px;
+
+}
+
+.img-container {
+	margin: 20px;
+}
+
+.about button {
+	color: #790C5A;
+    background-color: white;
+    border: 2px solid #790C5A;
+    border-radius: 3px;
+	padding: 10px;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 0.8em;;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.long {
+	order: 2;
 }
 

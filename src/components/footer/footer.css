@@ -1,0 +1,30 @@
+.footer {
+	background-color: #965D80;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	width: 100vw;
+    height: 15vw;
+	border-radius: 50% 50% 0 0 / 100% 100% 0 0;
+}
+
+.contact-info {
+	width: 30%;
+    align-self: center;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.contact-icons {
+	padding: 10px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	width: 70%;
+	margin: 0 auto;
+}
+
+.copy-rights {
+	display: flex;
+	justify-content: space-around;
+}

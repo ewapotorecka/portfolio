@@ -1,10 +1,17 @@
+
+.header-container {
+	width: 50%;
+    margin-left: 20%;
+    border-bottom: 2px solid #790c5a;
+}
+
 .skills {
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
 	align-items: center;
 	width: 100%;
-	padding-top: 70px;
+	min-height: calc( 100vh - 70px );
 }
 
 .skills-container {
@@ -20,11 +27,6 @@
 
 .skills-list li {
 	padding: 8px;
-}
-
-
-.technologies li {
-	padding: 15px;
 }
 
 .tech-icon {

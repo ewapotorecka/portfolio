@@ -13,13 +13,16 @@ const pigGame = {
 function Projects() {
 	return(
 		<div className="section">
+			<div className="header-container">
+				<h1>PROJECTS</h1>
+			</div>
 			<div className="project-container left">
 				<div className="link-container">
 					<Link  data={ pigGame } className="project-link"/>
 				</div>
 				<div className="description">
 					<h4>Hungry Pig game</h4>
-					<p>Currently available only for desktop.</p>
+					<p>Currently available only for desktop. Click on the image to try it!</p>
 					<p>A simple game, where your objective is to find the way to the tasty veggies.
 						Move using arrows. Hungry Pig can push a block to clear the way.</p>
 					<p>Technologies used:</p>

@@ -2,7 +2,6 @@ import React from 'react';
 import Skills from '../skills';
 import Projects from '../projects';
 import AboutMe from '../about-me';
-import Contact from '../contact';
 import Welcome from '../welcome';
 import './Main.css';
 
@@ -20,9 +19,6 @@ function Main() {
 			</div>
 			<div  id="about-me">
 				<AboutMe />
-			</div>
-			<div id="contact">
-				<Contact />
 			</div>
 		</div>
 	);
