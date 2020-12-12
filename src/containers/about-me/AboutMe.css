@@ -35,3 +35,23 @@
 	order: 2;
 }
 
+@media screen and (max-width: 900px) {
+	.about {
+		width: 100%;
+	}
+	.about-container {
+		width: 90vw;
+		flex-direction: column;
+		align-items: center;
+	}
+	.long {
+		order: 0;
+	}
+	.img-container {
+		margin: auto;
+	}
+	.text-container {
+		margin: auto;
+		width: 100vw;
+	}
+}

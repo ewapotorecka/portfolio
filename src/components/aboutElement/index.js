@@ -12,7 +12,6 @@ function AboutElement( { data, img } ) {
 
 
 	const handleClick = () => {
-	
 		if ( content === data.extended ) {
 			setContent( '' );
 			setButtonContent( button.more );

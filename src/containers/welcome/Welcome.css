@@ -31,10 +31,12 @@
 	}
 
 	.profile-img-container {
+		margin: 20px;
 		width: 80%;
 	}
 
 	.welcome-text-container {
-		width: 80%;
+		width: 100vw;
+		margin: auto;
 	}
 }
