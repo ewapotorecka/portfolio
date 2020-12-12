@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6f4cc6f5.chunk.css",
+    "main.js": "/portfolio/static/js/main.0a3b8d11.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.0a3b8d11.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/js/2.262e7550.chunk.js": "/portfolio/static/js/2.262e7550.chunk.js",
+    "static/js/2.262e7550.chunk.js.map": "/portfolio/static/js/2.262e7550.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.1252853a15bae841a6efedf42f78b938.js": "/portfolio/precache-manifest.1252853a15bae841a6efedf42f78b938.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.6f4cc6f5.chunk.css.map": "/portfolio/static/css/main.6f4cc6f5.chunk.css.map",
+    "static/js/2.262e7550.chunk.js.LICENSE.txt": "/portfolio/static/js/2.262e7550.chunk.js.LICENSE.txt",
+    "static/media/climbing.png": "/portfolio/static/media/climbing.94a251e0.png",
+    "static/media/pigGame.png": "/portfolio/static/media/pigGame.5bcc0ef9.png",
+    "static/media/poodle.png": "/portfolio/static/media/poodle.6f2bd4f8.png",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.a1a5336c.jpg",
+    "static/media/run.png": "/portfolio/static/media/run.82fb9b40.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/js/2.262e7550.chunk.js",
+    "static/css/main.6f4cc6f5.chunk.css",
+    "static/js/main.0a3b8d11.chunk.js"
+  ]
+}
