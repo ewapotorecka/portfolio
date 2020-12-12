@@ -39,6 +39,9 @@
 	.about {
 		width: 100%;
 	}
+	.header-container {
+		font-size: 0.9em;
+	}
 	.about-container {
 		width: 90vw;
 		flex-direction: column;
