@@ -6,7 +6,7 @@ const poodleText = {
 			<p>
 				They say that poodles are among most intelligent dogs.
 				And yes they are, but it doesn't mean they will obey every command.
-				First the Poodle will think if is it worth the effort. If you watch closely, you will see the process.
+				First the Poodle will think if it is worth the effort. If you watch closely, you will see the process.
 				Then the Poodle will try to follow the command only halfway and see if it works.
 				I would never thought that there are so many intermediate states between sitting and laying down.
 				So I have a standard poodle. The most wonderful dog in the world. Full of love and excitement.

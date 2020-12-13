@@ -5,7 +5,7 @@ const runningText = {
 			Physically I feel much better, even when I’m tired. But most of the changes are in my head.
 			This kind of activity gives you a lot of time to think, you discover yourself as a person,
 			the traits that you never thought you have.
-			I’ve became (or I always were?) very persistent in pursuing my goals,
+			I’ve become (or I always was?) very persistent in pursuing my goals,
 			not only during training or races, in real-life situations too.
 			I’m a master of planning and executing plans.
 			Time management became my thing too, when I had to squeeze training, work, learning and household duties in one day.</p>,

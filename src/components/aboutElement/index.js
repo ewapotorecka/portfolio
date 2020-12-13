@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faChevronDown, faChevronUp } from '@fortawesome/free-solid-svg-icons';
+import './about-element.scss';
 
 function AboutElement( { data, img } ) {
 	const button = {
@@ -35,7 +36,7 @@ function AboutElement( { data, img } ) {
 				<p>
 					{ content }
 				</p>
-				<button onClick={ handleClick }>
+				<button onClick={ handleClick } className='more-button'>
 					{ buttonContent }
 				</button>
 			</div>
